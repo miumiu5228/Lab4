@@ -1,0 +1,13 @@
+C:\Users\miumi\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.exe
+C:\Users\miumi\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.deps.json
+C:\Users\miumi\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.json
+C:\Users\miumi\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.dev.json
+C:\Users\miumi\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\miumi\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\miumi\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csproj.AssemblyReference.cache
+C:\Users\miumi\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfoInputs.cache
+C:\Users\miumi\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfo.cs
+C:\Users\miumi\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\miumi\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\miumi\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\miumi\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.genruntimeconfig.cache
